@@ -1,0 +1,8 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 10,
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+}
